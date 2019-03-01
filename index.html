@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Logan McDonald</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="img/favicon.png" rel="icon">
+    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
+    <link href="https://loganmcdonald.dev" rel="canonical">
+    <style>
+      .content {
+        width: 100%;
+        max-width: 24rem;
+        margin: 0 auto;
+        font-family: 'Cutive Mono', monospace;
+        padding-top: 3rem;
+        display: flex;
+        flex-direction: column;
+      }
+
+      a {
+        padding: 1em;
+        background-color: white;
+        font-size: 2rem;
+        font-weight: normal;
+        text-decoration: none;
+        color: inherit;
+        display: block;
+        width: 100%;
+        margin: 2rem 0;
+        box-sizing: border-box;
+      }
+
+      a:hover {
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="content">
+      <a href="/">logan mcdonald</a>
+      <a href="mailto:me@loganmcdonald.dev">email</a>
+      <a href="https://github.com/loganmeetsworld">github</a>
+      <a href="https://twitter.com/_loganmcdonald">twitter</a>
+    </div>
+    <script>
+      const randomChoice = (xs) =>
+        xs[Math.floor(Math.random() * xs.length)];
+
+      const randomHexChar = () =>
+        randomChoice('0123456789ABCDEF');
+
+      const buildArray = (n, f) =>
+        (new Array(n))
+          .fill(null)
+          .map((_) => f());
+
+      const buildString = (n, f) =>
+        buildArray(n, f)
+          .join('');
+
+      const randomColor = () =>
+        '#' + buildString(6, randomHexChar);
+
+      const randomLinearGradient = () =>
+        `linear-gradient(to right, ${randomColor()}, ${randomColor()})`;
+
+      document.body.style.background = randomLinearGradient();
+
+      const host = "loganmcdonald.dev";
+      if (host == window.location.host && window.location.protocol != "https:") {
+        window.location.protocol = "https";
+      }
+    </script>
+  </body>
+</html>

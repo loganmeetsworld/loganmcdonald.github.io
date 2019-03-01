@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/loganmcdonald
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://loganmcdonald.dev
+  * I am loganmcdonald (https://keybase.io/loganmcdonald) on keybase.
+  * I have a public key with fingerprint E008 B82E 3F6A 8EEA 3370  046D D70E FF8A B3EA 4435
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012048fd5f8bd9ed2fdc5c4350b4ad151f624453b60bda53505444223235f3fcf9b50a",
+      "fingerprint": "e008b82e3f6a8eea3370046dd70eff8ab3ea4435",
+      "host": "keybase.io",
+      "key_id": "d70eff8ab3ea4435",
+      "kid": "01017d9061bbfca83ce922522139fa4bb479b1c4904e638730ce09c5ed203460bb6e0a",
+      "uid": "0df6ec2244bc42ef2a00ac4bfa1b5519",
+      "username": "loganmcdonald"
+    },
+    "service": {
+      "hostname": "loganmcdonald.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1551453663,
+  "expire_in": 157680000,
+  "prev": "e9f0896456b8ef527cf76e205013e5c72147d90bbe53d0c6c2a4741f374c6ec8",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJtUFRVGF4EilbFHQph+mDsFpMiMed+nHvvrtMikAYulDZEI4LLPfee
+CwvL3mW/EASSGlLAYSQhASennHa0aayIYRwMGtehNKFShlInkChjXMIh8aPEjM5S
+/vP8OXPe93mf93ne9wwuD9fpwy5ELzT1TL8Iw4YCh726gqqciZ0U0pQqyrSTKsOL
+F7Yr2O2xltkUykQBmgGcqCpQFZFixAqjKjKUORYCxEkKDWmVZzgOsogHSJEgiUOO
+4xiGZViosqqsGhEEEpVMqTZHMXY5XTaHh9BiAEQkMphVeUnEWGJZAQCOVxQBYFUV
+JcRiiSNdSGGJ5g5VEHFIcuMUm0Zi5GFdlPcA/H3dgBYUI+BphFRZElkZGxkGMgzN
+GlWJQ4gTjIiWOSPgMM+KAgtkDIwyJA4ByxEziMeLur3/0Skqj2WGWEUyx2CVkQCQ
+ZA6pEo0gpI0hoBu7HFI5Jmi7Viw5ymVFc0h2hapNpkjKZ5NxaLohOw+CpSjYR1ic
+Ls2jyZqdpEs8HqfbFCr3VDlD+EqMrP8zWZHNoZCJkgofdrltmoMy0QQpe2whappo
+IkvheTaZwjucNhe22kIIKPAiICfUh7QjezCqQDTyHOSRiFXICLIq8JgBENAshrLA
+0FxoighhyCpA5mVG4gSOVlmBk8lARCrkrcKhUSaWtPJIxYTTbSt2SB6vC1O1pwIF
+Ebowve6hyCWhr6bTP2K4/wHrB1YsVI9Pnxzp3XS0PMYhNH7XOZr91lhP7eUuKqk/
+KvzjxDU3moYSZWo289P2q6nDMRGfVFT5v6qe66uzVz9TnOb78mDpce2JWM3ssURf
+7BcMHds62+qK8rbk1twzxJy9/ZLVdO613qzx3qjCrXvfyDx28bzQNPXrwM3dA583
+w37Fm11V8WzD+n3jbWm7rJc2d58pPLL73fqItOn4tJtbxWBdtj5j2Rpz/ofZq5Tf
+XkUH7lZPDsRXdJZeD7yz8W776ameI926q5XK/Pxz5lubJt43pTpvL5042EDlZvw4
+cmd0f1xZa1aN/0JXY0Zl0F6oMhGZe0eL5oNhgcbakl/Ot7dIJ2q2T/r60083jpp1
+lh9mOlZFJrd9k2QJ6q2eyOFDX9+JLP0ZwpWDm/+adPOD5WnnRoueDKyd8x4aU7TY
+/Q9H9zGzGxa+nRuIfl2uaf6zN3Zj6u9Dp8Z6guZ9Zo0Vfto2RJ99qr6lZXj7B8Hj
+rfBk3h59zay5K69Tfi99LpHxjqRfnklIeLPVWpG9RbuWG/f8YS5q6vGkRCH1xLo4
+6wZ/jmnJ0QJ/ivkKTvB7X7nUsLzuzLKCCNQw8nf+iAVnru3O4vNd8TfoY6a3w5ss
+/8xMLVm/q6vrsRc6rhWsqF699F7PF4aXd6yetjQrK//IbfFNPa3mPHol1/DZ96Ah
+4DcccBZf71sXbf3o1r/KjcOO
+=sm60
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/loganmcdonald
+
+==================================================================
